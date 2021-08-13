@@ -1,0 +1,1 @@
+Apesar de já ter conhecimentos em Git e GItHub, estou adorando poder rever e fixar ainda mais conceitos que já conhecia. O curso está sendo muito proveitoso.
